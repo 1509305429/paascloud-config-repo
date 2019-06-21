@@ -19,7 +19,6 @@ spring:
     password: guest
   redis:
     host: 127.0.0.1
-    password: Yunhe_2018
     port: 6379
     timeout: 0
   datasource:
