@@ -18,7 +18,7 @@ spring:
     username: guest
     password: guest
   redis:
-    host: 127.0.0.1
+    host: 47.99.159.66
     port: 6379
     timeout: 0
   datasource:
@@ -39,8 +39,8 @@ spring:
         login-password: admin
   mail:
     host: smtp.163.com
-    username: paascloudTest@163.com
-    password: a123456
+    username: owntimee@163.com
+    password: q08281711
     port: 465
     protocol: smtp
     test-connection: false
