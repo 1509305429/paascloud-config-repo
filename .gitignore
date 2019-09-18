@@ -1,0 +1,9 @@
+
+
+### IntelliJ IDEA ###
+logs
+.idea
+*.iws
+*.iml
+*.ipr
+log.*
