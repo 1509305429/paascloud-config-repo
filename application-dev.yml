@@ -39,8 +39,8 @@ spring:
         login-password: admin
   mail:
     host: smtp.163.com
-    username: paascloudTest@163.com
-    password: a123456
+    username: owntimee@163.com
+    password: q08281711
     port: 465
     protocol: smtp
     test-connection: false
