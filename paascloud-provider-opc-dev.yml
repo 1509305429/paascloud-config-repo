@@ -61,11 +61,11 @@ paascloud:
     zkAddressList: paascloud-provider-zk:2181
   qiniu:
     key:
-      accessKey: yourQiniuAccessKey
-      secretKey: yourQiniuSecretKey
+      accessKey: 'y70K3bX_pEgdm2oyhMg_J5xN69b2vofFeDnVytLx'
+      secretKey: 'O6QSKI4XZL0bvWvp1nhDdDBqHZ2Irctv53hlaAGF'
     oss:
-      privateHost:
-      publicHost:
+      privateHost: 'your qiniu oss private host'
+      publicHost: 'http://oss.owntime.top'
       fileMaxSize: 104857600
   oauth2:
     jwtSigningKey: paascloud
